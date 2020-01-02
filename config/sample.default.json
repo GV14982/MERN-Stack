@@ -1,3 +1,6 @@
 {
-  "mongoURI": "YOUR MONGO URI STRING"
+  "mongoURI": "YOUR MONGO URI STRING",
+  "jwtsecret": "YOUR JSONWEBTOKEN SECRET",
+  "githubClientId": "YOUR GITHUB CLIENT ID",
+  "githubSecret": "YOUR GITHUB SECRET"
 }
